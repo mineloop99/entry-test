@@ -1,0 +1,12 @@
+Instruction:
+
+- Run with python 3.10 or greater
+- This is minimum run for this objective
+- Sample run very similar to example (although It's not run on my windows)
+- Demonstrate:
+    - Run
+    <code> python main.py <code>
+    - Unit Test 
+    <code> pytest <code>
+- Member:
+    HuynhHung: huynhhung171099@gmail.com
